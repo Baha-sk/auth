@@ -17,7 +17,7 @@ require (
 	github.com/hyperledger/aries-framework-go/spi v0.0.0-20220330140627-07042d78580c
 	github.com/rs/cors v1.8.2
 	github.com/spf13/cobra v1.4.0
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.0
 	github.com/trustbloc/auth v0.0.0-00010101000000-000000000000
 	github.com/trustbloc/edge-core v0.1.8
 	gopkg.in/yaml.v2 v2.4.0
@@ -77,7 +77,7 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/square/go-jose/v3 v3.0.0-20200630053402-0a67ce9b0693 // indirect
 	github.com/teserakt-io/golang-ed25519 v0.0.0-20210104091850-3888c087a4c8 // indirect
-	github.com/trustbloc/auth/spi/gnap v0.0.0-20220518152301-fe6ea3ada1af // indirect
+	github.com/trustbloc/auth/spi/gnap v0.0.0-20220623204824-c6be06c93136 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.0.2 // indirect
 	github.com/xdg-go/stringprep v1.0.2 // indirect
